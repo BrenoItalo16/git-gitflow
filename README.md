@@ -1,2 +1,2 @@
-# git-test
-A repository for git tests.
+# git-gitflow
+A repository for git and git flow tests and learning.
