@@ -30,6 +30,11 @@
                <td>Lets you switch between branches or restore files to a previous state in Git.</td>
                <td colspan="3">$ git checkout -b branch base-branch\ngit push -u origin newBranch</td>
              </tr>
+             <tr>
+               <td>git branch</td>
+               <td>Lets you switch between branches or restore files to a previous state in Git.</td>
+               <td colspan="3">$ git checkout -b branch base-branch\ngit push -u origin newBranch</td>
+             </tr>
            </tbody>
          </table>
    </div>
