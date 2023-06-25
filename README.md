@@ -17,12 +17,12 @@
            <tbody>
              <tr>
                <td>git init <directory</td>
-               <td>Initializes a new Git repository in a directory</td>
+               <td>Initializes a new Git repository in a directory.</td>
                <td colspan="3">cd/path/project $ git init </td>
              </tr>
              <tr>
                <td>Git clone a specific branch</td>
-               <td>Creates a local copy of a remote Git repository</td>
+               <td>Creates a local copy of a remote Git repository.</td>
                <td colspan="3">$ git clone -b master https://github.com/myName/myRepo.git</td>
              </tr>
              <tr>
