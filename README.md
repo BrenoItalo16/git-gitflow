@@ -32,7 +32,7 @@
              </tr>
              <tr>
                <td>Show all branches</td>
-               <td>To show a list of branches in a Git repository.</td>
+               <td>To show a list of branches in a Git repository</td>
                <td colspan="3">$ git branch</td>
              </tr>
            </tbody>
