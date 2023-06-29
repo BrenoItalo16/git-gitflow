@@ -38,3 +38,8 @@
            </tbody>
          </table>
    </div>
+<!--
+```shell
+cat ~/TOKEN.txt | docker login https://docker.pkg.github.com -u <em>USERNAME</em> --password-stdin
+```
+-->
