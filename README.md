@@ -3,7 +3,7 @@
 <br>
 
 # Git and Git Flow
-## Repository created for learning Git and Git Flow in practice! All commands, information and sessions were entered via Git or Git Flow.
+## Repository created to learn Git and Git Flow in practice! All commands, information and sessions were entered via Git or Git Flow.
 
 <div>
   <br>
