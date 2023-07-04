@@ -23,13 +23,13 @@ $ git clone -b master https://github.com/myName/myRepo.git
 
   ### Create a new branch
 ```shell
-$ git checkout -b branch base-branch\ngit push -u origin newBranch
+$ git push -u origin newBranch
 ```
 <br>
 
   ### Git branch shows a list of branches in a Git repository
 ```shell
-$ git checkout -b branch base-branch\ngit push -u origin newBranch
+$ git checkout -b branch base-branch
 ```
 <br>
 
